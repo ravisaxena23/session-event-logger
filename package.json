@@ -1,0 +1,25 @@
+{
+  "name": "session-event-logger",
+  "version": "1.3.0",
+  "description": "send event analytics from frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "keywords": [
+    "analytics",
+    "event logging",
+    "session management",
+    "tracking",
+    "data analysis",
+    "npm package",
+    "TypeScript",
+    "Node.js",
+    "web development"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.8"
+  }
+}
